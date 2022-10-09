@@ -2,10 +2,10 @@
 A Novel Method for Handwritten Digit Recognition System
 
 Team Members:<br>
-RISHIKA V (Roll no : 19Z341)
-SWETHA M (Roll no : 19Z355)
-CS THARUNRAJ (Roll no : 19I208)
-GOKULRAJAN N (Roll no : 19I218)
+RISHIKA V (Roll no : 19Z341)<br>
+SWETHA M (Roll no : 19Z355)<br>
+CS THARUNRAJ (Roll no : 19I208)<br>
+GOKULRAJAN N (Roll no : 19I218)<br>
 
-Faculty Mentor:
+Faculty Mentor:<br>
 S Sangeetha
