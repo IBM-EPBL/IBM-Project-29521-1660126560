@@ -12,7 +12,7 @@ S Sangeetha<br>
 
 # Table of Contents
 
-## [Understanding the Data](https://github.com/IBM-EPBL/IBM-Project-29521-1660126560/tree/main/Understanding%20the%20data)
+### [Understanding the Data](https://github.com/IBM-EPBL/IBM-Project-29521-1660126560/tree/main/Understanding%20the%20data)
 ## [Model Building](https://github.com/IBM-EPBL/IBM-Project-29521-1660126560/tree/main/Model%20Building)
 ## [Application Building](https://github.com/IBM-EPBL/IBM-Project-29521-1660126560/tree/main/Application%20Building)
 ## [Train the Model on IBM](https://github.com/IBM-EPBL/IBM-Project-29521-1660126560/tree/main/Train%20the%20Model%20on%20IBM)
