@@ -15,7 +15,7 @@ S Sangeetha<br>
 2. Empathy Map<br>
 3. Brainstorming and Priortization Map<br>
 4. Define Problem Statements<br>
-<br>
+
 ## Project Design Phase - I<br>
 1. Proposed Solution<br>
 2. Proposed Solution Fit<br>
